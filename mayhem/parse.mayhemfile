@@ -1,0 +1,6 @@
+project: pua-lang
+target: parse
+duration: 1800
+cmds:
+    - cmd: /fuzzers/fuzz_parse
+
